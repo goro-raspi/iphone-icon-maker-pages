@@ -26,5 +26,5 @@ npm run build
 - Workflow: `.github/workflows/deploy-pages.yml`
 - Vite `base` は `/iphone-icon-maker-pages/` に設定済み
 
-公開URL（想定）:
-`https://cocoaai-it.github.io/iphone-icon-maker-pages/`
+公開URL（想定）
+[`iPhoneアイコン作成アプリ`](https://goro-raspi.github.io/iphone-icon-maker-pages/)
